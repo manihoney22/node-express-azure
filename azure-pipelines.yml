@@ -16,7 +16,7 @@ steps:
     command: 'install'
     npm install
 
- - script: |
+ -script: |
   npm test
   displayName: 'npm test'
 
